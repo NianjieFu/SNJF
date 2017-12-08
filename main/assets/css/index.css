@@ -1,0 +1,12 @@
+.m-wrap {
+    width: 1224px;
+    height: 600px;
+    background-color: aliceblue;
+}
+
+.m-header {
+    border-radius: 0px;
+    height: 40px;
+    margin: 0;
+    -webkit-app-region:drag;
+}
